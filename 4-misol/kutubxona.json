@@ -1,0 +1,27 @@
+{
+    "kitoblar": [
+        {
+            "nomi": "Adnmwoe",
+            "muallifi": "weomc",
+            "narxi": 123124.0,
+            "yili": 12321,
+            "mavjud": true
+        },
+        {
+            "nomi": "Azbuka",
+            "muallifi": "",
+            "narxi": 1202.0,
+            "yili": 2023,
+            "mavjud": false
+        }
+    ],
+    "ijaradagi": [
+        {
+            "nomi": "Azbuka",
+            "muallifi": "",
+            "narxi": 1202.0,
+            "yili": 2023,
+            "mavjud": false
+        }
+    ]
+}
